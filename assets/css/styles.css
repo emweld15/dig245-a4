@@ -2,7 +2,9 @@
 /* css */
 body{
   background-color: grey;
+  style: red;
 }
+
 
 p{
 padding-bottom: 20px;
